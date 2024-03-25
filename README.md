@@ -8,7 +8,7 @@
   <a href="#스킬">스킬</a> •
   <a href="#기대효과">기대효과</a> •
   <a href="#Limitations/개선방향">Limitations/개선방향</a> •
-  <a href="Credits">Credits</a>
+  <a href="#Credits">Credits</a>
 </p>
 
 ## 기획의도
