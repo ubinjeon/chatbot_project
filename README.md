@@ -3,12 +3,12 @@
 </h1>
 <p align ="center">
   <a href="#기획의도">기획의도</a> •
-  <a href="#프로젝트 개요">프로젝트 개요</a> •
+  <a href="#프로젝트개요">프로젝트개요</a> •
   <a href="#웹구성도">웹구성도</a> •
   <a href="#스킬">스킬</a> •
   <a href="#기대효과">기대효과</a> •
-  <a href="#Limitations 및 개선방향">Limitations 및 개선방향</a> •
-  <a href="credits">Credits</a>
+  <a href="#Limitations/개선방향">Limitations/개선방향</a> •
+  <a href="Credits">Credits</a>
 </p>
 
 ## 기획의도
@@ -20,7 +20,7 @@
 <img src="images/chatBite_descImg_01-1.png" style="display:inline-block; width:800px; margin:auto;"/><br/>
 <img src="images/chatBite_descImg_01-2.png" style="display:inline-block; width:800px; margin:auto;"/><br/><br/><br/><br/>
 
-## 프로젝트 개요
+## 프로젝트개요
 <img src="images/chatBite_descImg_02.png" style="display:inline-block; width:800px; margin:auto;"/><br/><br/><br/><br/>
 
 ## 웹구성도
@@ -48,7 +48,7 @@
 ## 기대효과
 <img src="images/chatBite_descImg_04.png" style="display:inline-block; width:800px; margin:auto;"/><br/><br/><br/><br/>
 
-## Limitations 및 개선방향
+## Limitations/개선방향
 ### Limitations
 - 수요조사, 데이터 수집, 전처리, 알고리즘을 디테일하게 구현하는데 프로젝트 기간이 다소 제한적<br/>
 #### 1) 모델 학습측면
