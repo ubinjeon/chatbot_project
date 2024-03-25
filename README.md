@@ -10,7 +10,8 @@
   <a href="#Limitations 및 개선방향">Limitations 및 개선방향</a> •
   <a href="credits">Credits</a>
 </p>
-## 기획 의도
+
+## 기획의도
 - 현대인들의 신체활동 감소로 인한 비만율 상승
 - 채소 및 곡류 섭취 감소 및 당류 섭취 상승에 의한 '비만'과 '영양 결핍'의 심화라는 역설적 상황 발생
 - '배부른 영양실조' 유발, 개인적 특성과 환경에 따른 부족 영양소의 차별성 발생
@@ -33,9 +34,16 @@
   - 보건복지부 및 식품의약품안전처 등<br/>
 - 데이터 전처리 방법:
   - 크롤링 결과 데이터의 분류 확인, 질문에 대한 데이터 토큰화 및 태그화
-  - 크롤링을 통한 확보한 각 개체명의 단어들을 랜덤하게 조합하여 GPT API 프롬프트를 통해 데이터 2배 증강
+  - 크롤링을 통한 확보한 각 개체명의 단어들을 랜덤하게 조합하여 GPT API 프롬프트를 통해 데이터 2배 증강 (총 1,996 질문 데이터)
 #### 2) Chatbot 구현 : Ubuntu기반의 Flask와 Bootstrap을 이용한 Chatbot 화면 개발
 <img src="images/chatBite_descImg_03-2.png" style="display:inline-block; width:800px; margin:auto;"/><br/><br/><br/><br/>
+
+## 스킬
+- 파이썬 (Google Colab, Visual Studio Code)
+- 언어모델 (Google AI NLP - BERT)
+- 웹 프레임워크 (Flask, HTML, JS, CSS, Bootstrap)
+- 개발 환경 (Ubuntu, Visual Studio Code)
+- Hugging Face (KcBert NER model)
 
 ## 기대효과
 <img src="images/chatBite_descImg_04.png" style="display:inline-block; width:800px; margin:auto;"/><br/><br/><br/><br/>
@@ -55,4 +63,4 @@
 
 ## Credits
 - <a href="https://ratsgo.github.io/nlpbook/docs/ner/train/">Ratsgo NLP - NER 모델 훈련 가이드 참고
-- 
+- <a href="https://github.com/binary-hood/ChatBot">Binary-hood/ChatBot - Chatbot 프레임워크
