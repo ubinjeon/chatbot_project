@@ -2,14 +2,19 @@
 <img src="images/chatBite_coverImg.png" style="display:inline-block; width:800px; margin:auto;"/><br/><br/><br/><br/>
 </h1>
 <p align ="center">
+  <a href="#개요">개요</a> •
   <a href="#기획의도">기획의도</a> •
-  <a href="#프로젝트개요">프로젝트개요</a> •
   <a href="#웹구성도">웹구성도</a> •
   <a href="#스킬">스킬</a> •
   <a href="#기대효과">기대효과</a> •
-  <a href="#Limitations/개선방향">Limitations/개선방향</a> •
+  <a href="#개선방향">개선방향</a> •
   <a href="#Credits">Credits</a>
 </p>
+
+## 개요
+- 프로젝트 기간: 2024년 2월 13일 ~ 2024년 3월 15일
+- 프로젝트 요약: 배달음식 증가와 편중된 식단으로 인한 영양불균형 문제에 대한 하나의 솔루션으로 영양정보와 균형있는 식단을 제공하는 AI 영양사 챗봇 개발
+<img src="images/chatBite_descImg_02.png" style="display:inline-block; width:800px; margin:auto;"/><br/><br/><br/><br/>
 
 ## 기획의도
 - 현대인들의 신체활동 감소로 인한 비만율 상승
@@ -19,9 +24,6 @@
 - 원인 : 배달음식의 증가,육식과 탄수화물에 편중된 식단, 야외 활동 감소, 자극적인 음식 선호, 극단적 다이어트 등
 <img src="images/chatBite_descImg_01-1.png" style="display:inline-block; width:800px; margin:auto;"/><br/>
 <img src="images/chatBite_descImg_01-2.png" style="display:inline-block; width:800px; margin:auto;"/><br/><br/><br/><br/>
-
-## 프로젝트개요
-<img src="images/chatBite_descImg_02.png" style="display:inline-block; width:800px; margin:auto;"/><br/><br/><br/><br/>
 
 ## 웹구성도
 <img src="images/chatBite_descImg_03.png" style="display:inline-block; width:800px; margin:auto;"/><br/>
@@ -39,6 +41,7 @@
 <img src="images/chatBite_descImg_03-2.png" style="display:inline-block; width:800px; margin:auto;"/><br/><br/><br/><br/>
 
 ## 스킬
+[![My Skills](https://skillicons.dev/icons?i=py,vscode,flask,html,js,jquery,css,bootstrap,ubuntu,ai&theme=light)](https://skillicons.dev)
 - 파이썬 (Google Colab, Visual Studio Code)
 - 언어모델 (Google AI NLP - BERT)
 - 웹 프레임워크 (Flask, HTML, JS, CSS, Bootstrap)
@@ -48,9 +51,9 @@
 ## 기대효과
 <img src="images/chatBite_descImg_04.png" style="display:inline-block; width:800px; margin:auto;"/><br/><br/><br/><br/>
 
-## Limitations/개선방향
+## 개선방향
 ### Limitations
-- 수요조사, 데이터 수집, 전처리, 알고리즘을 디테일하게 구현하는데 프로젝트 기간이 다소 제한적<br/>
+- 프로젝트 기획, 수요조사, 데이터 수집, 전처리, 알고리즘을 디테일하게 구현하는데 프로젝트 기간이 다소 제한적<br/>
 #### 1) 모델 학습측면
 - 문장에서 단어의 위치에 따라 개체명 인식 차이 발생<br/>
 - 선호/비선호/알러지 표현으로 분류시 모호한 부분으로 인한 개체명 인식 차이 발생<br/>
