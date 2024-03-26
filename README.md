@@ -41,7 +41,9 @@
 
 ## 스킬
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=py,vscode,flask,html,js,jquery,css,bootstrap,ubuntu,ai&theme=light)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,vscode,flask,html,js,jquery,css,bootstrap,ubuntu,ai&theme=light" />
+  </a>
 </p>
 - 파이썬 (Google Colab, Visual Studio Code)
 - 언어모델 (Google AI NLP - BERT)
