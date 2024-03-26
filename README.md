@@ -23,8 +23,6 @@
 - '배부른 영양실조' 유발, 개인적 특성과 환경에 따른 부족 영양소의 차별성 발생
 - 부족 영양소에 대한 영양제 과다 섭취에 의한 부작용 발생
 - 원인 : 배달음식의 증가,육식과 탄수화물에 편중된 식단, 야외 활동 감소, 자극적인 음식 선호, 극단적 다이어트 등
-<img src="images/chatBite_descImg_01-1.png" style="display:inline-block; width:800px; margin:auto;"/><br/>
-<img src="images/chatBite_descImg_01-2.png" style="display:inline-block; width:800px; margin:auto;"/><br/><br/><br/><br/>
 
 ## 웹구성도
 <img src="images/chatBite_descImg_03.png" style="display:inline-block; width:800px; margin:auto;"/><br/>
