@@ -40,7 +40,9 @@
 <img src="images/chatBite_descImg_03-2.png" style="display:inline-block; width:800px; margin:auto;"/><br/><br/><br/><br/>
 
 ## 스킬
+<p align="center">
 [![My Skills](https://skillicons.dev/icons?i=py,vscode,flask,html,js,jquery,css,bootstrap,ubuntu,ai&theme=light)](https://skillicons.dev)
+</p>
 - 파이썬 (Google Colab, Visual Studio Code)
 - 언어모델 (Google AI NLP - BERT)
 - 웹 프레임워크 (Flask, HTML, JS, CSS, Bootstrap)
